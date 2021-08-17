@@ -1,0 +1,36 @@
+.heading_div {
+    width: 100%;
+    text-align: left;
+}
+
+.btn_1 {
+    float: right;
+    background-color: rgb(177, 235, 44);
+    border: 1px solid white;
+    border-radius: 10px;
+    
+}
+
+.heading {
+    display: inline;
+}
+
+#status {
+    background-color: white;
+    color: black;
+    font-size: 10px;
+}
+
+.modal-dialog {
+    width: 70%;
+    height: 100%;
+}
+
+#footer {
+    line-height: 3;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
